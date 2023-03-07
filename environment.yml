@@ -1,0 +1,19 @@
+name: ncar-challenge
+channels:
+  - conda-forge
+dependencies:
+  - cachey
+  - flox
+  - dask-core
+  - distributed
+  - netcdf4
+  - zarr
+  - rioxarray
+  - xarray
+  - pre-commit
+  - flox
+  - pooch
+  - toolz
+  - numba
+  - matplotlib
+  - ipykernel
